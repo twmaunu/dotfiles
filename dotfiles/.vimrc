@@ -1,6 +1,8 @@
 set nocompatible
 filetype off
 
+hello
+
 set rtp+=~/.vim/bundle/vundle
 call vundle#rc()
 
